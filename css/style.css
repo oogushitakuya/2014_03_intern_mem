@@ -39,7 +39,9 @@ td:hover{
 .goods-plate{
 	display:inline-block;
 	width:30%;
+	max-width: 200px;
 	border: 1px solid #ddd;
+	margin-bottom: 20px;
 }
 
 .goods-plate img{
