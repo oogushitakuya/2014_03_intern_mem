@@ -40,6 +40,7 @@ td:hover{
 	display:inline-block;
 	width:30%;
 	max-width: 200px;
+	min-width: 100px;
 	border: 1px solid #ddd;
 	margin-bottom: 20px;
 }
@@ -53,4 +54,8 @@ td:hover{
 	white-space: nowrap;
 	overflow: hidden;
 	width: 100%;
+}
+
+.brandimg, .mapimg{
+	width:100%;
 }
