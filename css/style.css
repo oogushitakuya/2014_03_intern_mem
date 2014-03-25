@@ -1,6 +1,6 @@
 body {
   padding-top: 70px;
-  padding-bottom: 30px;
+  padding-bottom: 50px;
 }
 
 .theme-dropdown .dropdown-menu {
@@ -26,6 +26,10 @@ body {
 
 td{
 	border:1px solid #000;
+}
+
+p{
+	text-align: center;
 }
 
 td:hover{
