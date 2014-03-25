@@ -63,3 +63,13 @@ td:hover{
 .brandimg, .mapimg{
 	width:100%;
 }
+
+.goods-status{
+	float: left;
+	width: 50%;
+}
+
+.goods-status img{
+	width:50%; 
+	float: left;
+}
