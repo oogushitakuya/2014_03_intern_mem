@@ -12,3 +12,27 @@ body {
 .theme-showcase > p > .btn {
   margin: 5px 0;
 }
+
+#footer{
+	width:100%;
+	text-align: center;
+	cursor:pointer;
+	height:50px;
+	vertical-align: middle;
+	background: #cef;
+	position: fixed;
+	bottom: 0px;
+
+}
+
+td{
+	border:1px solid #000;
+}
+
+td:hover{
+	background: #eef;
+}
+
+.btn-return{
+	padding-right:20px;
+}
