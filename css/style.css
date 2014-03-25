@@ -22,7 +22,6 @@ body {
 	background: #cef;
 	position: fixed;
 	bottom: 0px;
-
 }
 
 td{
@@ -35,4 +34,21 @@ td:hover{
 
 .btn-return{
 	padding-right:20px;
+}
+
+.goods-plate{
+	display:inline-block;
+	width:30%;
+	border: 1px solid #ddd;
+}
+
+.goods-plate img{
+	width:100%;
+}
+
+.goods-plate p{
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+	width: 100%;
 }
